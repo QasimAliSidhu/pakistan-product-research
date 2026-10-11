@@ -1,0 +1,7 @@
+Flask>=3.1,<4
+waitress>=3,<4
+requests>=2.32,<3
+beautifulsoup4>=4.13,<5
+numpy>=2,<3
+ddgs>=9,<10
+trendspyg>=1.8,<2
