@@ -1,0 +1,17 @@
+{
+  "sale_price": 1000,
+  "purchase_cost": 400,
+  "commission_pct": 10,
+  "payment_pct": 2,
+  "fee_tax_pct": 10,
+  "withholding_pct": 1,
+  "packaging": 20,
+  "shipping": 30,
+  "ad_cost": 40,
+  "return_pct": 10,
+  "return_loss": 100,
+  "monthly_units": 100,
+  "fixed_monthly": 1000,
+  "order_qty": 50,
+  "budget": 100000
+}

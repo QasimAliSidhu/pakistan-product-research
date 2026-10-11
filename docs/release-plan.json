@@ -1,0 +1,20 @@
+{
+  "tag": "v0.1.0-demo",
+  "title": "Pakistan Product Research \u2014 public workflow demo",
+  "publish_at_utc": "2026-10-13T13:47:00+00:00",
+  "deadline_utc": "2026-10-13T18:59:59+00:00",
+  "assets": [
+    {
+      "path": "docs/demo.gif",
+      "name": "demo.gif",
+      "content_type": "image/gif",
+      "sha256": "dcede8602d4e797d9e5c410d036ac4bf6255e4b68fa3d8211be12a1a61602604"
+    },
+    {
+      "path": "docs/demo.mp4",
+      "name": "demo.mp4",
+      "content_type": "video/mp4",
+      "sha256": "8155bf611658d3c902429a3d773f11b57a8b56f80a35991caa39a758e951876c"
+    }
+  ]
+}
